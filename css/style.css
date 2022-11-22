@@ -2,17 +2,78 @@
     max-width: 1366px;
     width: 100%;
     margin: 0 auto;
+    background-color: #f7f1f1fd;
 }
 header{
     width: 95%;
+    height: 110px;
+    margin: 0 auto;
     border: 2px solid palevioletred;
+    display: flex;
+    gap: 367px;
+    align-items: center;
+    border-radius: 0 0 30px 30px;
+    background-color: #ffffff;
 }
 .zootopia{
     width: 212px;
+    padding-left: 45px;
+    /* height: 30px; */
 }
-.fa-solid{
+/* .fa-bars{
+    width: 50px;
+} */
+/* .fa-solid{
     width: 28px;
-}
+} */
 .headeritems{
-    
+    display: flex;
+    gap: 28px;
+
+}
+
+.fa-regular{
+    padding-bottom: 16px;
+}
+/* .box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+} */
+
+
+
+
+                /* section1 styling starting from here*/
+
+
+.section1{
+    max-width: 1186px;
+    width: 100%;
+    margin: 0 auto;
+}
+.puppy{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.sectiontext{
+    width: 339px;
+    position: absolute;
+    top: 200px;
+    left: 550px;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+}
+button{
+    width: 176px;
+    height: 42px;
+    background-color: #ffffff;
+    color: #111111;
+    font-size: 12px;
+    border: #ffffff;
+    position: absolute;
+    top: 330px;
+    left: 630px;
 }
