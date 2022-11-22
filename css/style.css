@@ -3,3 +3,16 @@
     width: 100%;
     margin: 0 auto;
 }
+header{
+    width: 95%;
+    border: 2px solid palevioletred;
+}
+.zootopia{
+    width: 212px;
+}
+.fa-solid{
+    width: 28px;
+}
+.headeritems{
+    
+}
